@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 LandingPage de uma sorveteria, o cliente pode ter acesso ao menu e ao contato do estabelecimento, é assim também fazer seu pedido por esse site. 
 
-- [Acesse o projeto finalizado, online](https://pablodpaula1.github.io/LandingPage-Sorveteria/)
+- [Acesse o projeto finalizado, online](https://pablonicolino.github.io/LandingPage-Sorveteria/)
 
 ## :memo: Licença
 
